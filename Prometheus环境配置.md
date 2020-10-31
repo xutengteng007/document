@@ -12,25 +12,25 @@
 
 从prometheus官网下载二进制安装包，这里选择[版本2.7.1](https://github.com/prometheus/prometheus/releases/download/v2.7.1/prometheus-2.7.1.linux-amd64.tar.gz)
 
-![image](uploads/prometheus1.png)
+![image](prometheus1.png)
 
 **confd**
 
 confd需要源码编译，这里选择[版本0.18.0](https://github.com/nacos-group/confd/archive/v0.18.0.tar.gz)
 
-![image](uploads/prometheus2.png)
+![image](prometheus2.png)
 
 **go**
 
 confd源码编译需要通过go语言，因此需要安装go环境，这里选择[版本1.13](https://dl.google.com/go/go1.13.linux-amd64.tar.gz)
 
-![image](uploads/go1png.png)
+![image](go1png.png)
 
 **alertmanager**
 
 下载alertmanager，这里选择[版本v0.20.0-rc](https://github.com/prometheus/alertmanager/releases/download/v0.20.0/alertmanager-0.20.0.linux-amd64.tar.gz)
 
-![image](uploads/go2.png)
+![image](go2.png)
 
 
 ## 安装部署
